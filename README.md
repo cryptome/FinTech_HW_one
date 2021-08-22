@@ -91,30 +91,30 @@ ____
 
 *Addendum*
 
-[zaphq.io](https://zaphq.io/ )
+[zaphq.io](https://zaphq.io/)
 
 [strike.me](https://strike.me/)
 
-[SALT Talks #229 - Jack Mallers: Bringing Bitcoin to El Salvador1](https://www.youtube.com/watch?v=4tLo74533xc )
+[SALT Talks #229 - Jack Mallers: Bringing Bitcoin to El Salvador1](https://www.youtube.com/watch?v=4tLo74533xc)
 
 [Crunchbase.com](https://www.crunchbase.com/organization/zap-solutions-a2c2)
 
-[Coindesk.com article 1](https://www.coindesk.com/bitcoin-lightning-startup-zap-global-fiat-pairs-stablecoins )
+[Coindesk.com article 1](https://www.coindesk.com/bitcoin-lightning-startup-zap-global-fiat-pairs-stablecoins)
 
-[Coindesk.com article 2](https://www.coindesk.com/lightning-startup-zap-raised-3-5m-for-bitcoin-app-ahead-of-visa-deal )
+[Coindesk.com article 2](https://www.coindesk.com/lightning-startup-zap-raised-3-5m-for-bitcoin-app-ahead-of-visa-deal)
 
-[Coindesk.com article 3](https://www.coindesk.com/strike-launches-bitcoin-lightning-payment-app-in-el-salvador-full-eu-support-is-next )
+[Coindesk.com article 3](https://www.coindesk.com/strike-launches-bitcoin-lightning-payment-app-in-el-salvador-full-eu-support-is-next)
 
-[CryptoVantage.com article](https://www.cryptovantage.com/best-crypto-tools/strike/ )
+[CryptoVantage.com article](https://www.cryptovantage.com/best-crypto-tools/strike/)
 
 [B2 article](https://www.businessofbusiness.com/articles/what-is-strike-El-Salvador-bitcoin-announcement/)
 
 [BusinessWire.com article](https://www.businesswire.com/news/home/20210605005045/en/Strike-Drives-Bitcoin-Forward-as-El-Salvador-Becomes-World%E2%80%99s-First-Country-to-Adopt-Bitcoin-as-Legal-Tender)
 
-[BitcoinMagazine.com article](https://bitcoinmagazine.com/business/lightning-wallet-strike-now-enables-bitcoin-withdrawals )
+[BitcoinMagazine.com article](https://bitcoinmagazine.com/business/lightning-wallet-strike-now-enables-bitcoin-withdrawals)
 
-[CNBC.com "The Exchange" interview](https://www.cnbc.com/video/2021/08/12/strike-ceo-on-paying-with-bitcoin.html )
+[CNBC.com "The Exchange" interview](https://www.cnbc.com/video/2021/08/12/strike-ceo-on-paying-with-bitcoin.html)
 
-[Nasdaq.com article 1](https://www.nasdaq.com/articles/zaps-strike-moves-to-public-beta-2020-07-02 )
+[Nasdaq.com article 1](https://www.nasdaq.com/articles/zaps-strike-moves-to-public-beta-2020-07-02)
 
-[Nasdaq.com article 2](https://www.nasdaq.com/articles/jack-mallers-strike-rolls-out-bitcoin-buys-going-head-to-head-with-coinbase-2021-07-01 )
+[Nasdaq.com article 2](https://www.nasdaq.com/articles/jack-mallers-strike-rolls-out-bitcoin-buys-going-head-to-head-with-coinbase-2021-07-01)
