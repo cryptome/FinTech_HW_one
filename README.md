@@ -1,6 +1,3 @@
-[Strike - a fintech case study.md](https://github.com/cryptome/FinTech_HW_one/files/7026614/Strike.-.a.fintech.case.study.md)
-
-
 # FinTech_HW_one
 This is a case study of a fintech company.
 
