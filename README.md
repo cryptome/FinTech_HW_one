@@ -54,7 +54,7 @@ ___
 
 - Some of the other major players in this space are Paypal, Square, Cash App, Coinbase, Venmo, Western Union, Swan Bitcoin.
 
-- Strike is further evolving the landscape by introducing novel concepts such as "stream-pay" - workers could get paid literally by the second / minute, thanks to zero-cost micropayments on the Lightning network. You can see a live 1 minute demo of Mallers stream paying one of his overseas engineers via the Strike app [here](https://www.youtube.com/watch?v=Rt2C3CsLi7k).
+- Strike is further evolving the landscape by introducing novel concepts such as "stream-pay" - workers could get paid literally by the second / minute, thanks to zero-cost micropayments on the Lightning network. View a 1 minute live demo of Mallers stream paying one of his overseas engineers via the Strike app [here](https://www.youtube.com/watch?v=Rt2C3CsLi7k).
 
   
 
@@ -68,7 +68,7 @@ ___
 
 - Mallers has created a company that leverages the Bitcoin network and all its resourses - he famously states: "How many MIT researchers are working cryptography for the Paypal monetary network?" Strike in conjunction with Bitcoin provide a more inclusive and open monetary network. No closed network can ever compete.
 
-- Strike quickly gaining popularity as it only charges 0.3% for brokering BTC trades, as opposed to industry leaders such as Coinbase that charges up to 3.99% for buying or selling Bitcoin.
+- Strike is quickly gaining popularity as it only charges 0.3% for brokering BTC trades, as opposed to industry leaders such as Coinbase that charges up to 3.99% for buying or selling Bitcoin.
 
 - Mallers anticipates to further lower its fees for brokering BTC trades to 0.1% in the next few months as its volume grows.
 
