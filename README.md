@@ -43,7 +43,7 @@ Transaction example:
 2. $100USD gets instantly converted to BTC, and travels overseas to South America.
 3. BTC arrives in Argentina and is converted to Pesos. Nilda instantly receives the equivalent of $100USD in Pesos in her Strike account, no value lost.
 
-Strike has now set its focus on Europe, while actively beta testing in the Phillipines, Canada, the UK, and Argentina. It has also announced that it will issue its own Visa card later his year and a "Pay me in Bitcoin" feature that has been made popular by the likes of NFL offensive tackle Russell Okung.
+Strike has now set its focus on Europe, while actively beta testing in the Phillipines, Canada, the UK, and Argentina. It has also announced that it will issue its own Visa card later this year and a "Pay me in Bitcoin" feature that has been made popular by the likes of NFL offensive tackle Russell Okung.
 
 
 
