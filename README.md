@@ -83,7 +83,7 @@ ___
 
 While Strike is out disrupting the world, it seems to have neglected basic app security. It is my recommendation they at least include facial / thumbprint recognition, as in theory anyone could pick up an unlocked phone and begin transacting on the Strike app without any security barriers. This is a simple fix Strike could roll out in their next update as all that is required is the actual implementation of these already existing solutions.
 
-A final recommendation for Zap might be to eventually include an educational section to further and more efficiently empower the masses with economic freedom and financial inclusion, although the outspoken Jack Mallers seems to be doing a fine job of educating the masses via interviews, public speaking events, and his Twitter account.
+A final recommendation for Zap might be to eventually include an educational section to further and more efficiently empower the masses with economic freedom and financial inclusion, although the outspoken Jack Mallers seems to be doing a fine job of educating the masses via interviews, public speaking events, and his Twitter [account](https://twitter.com/jackmallers).
 
 **In conclusion, Strike is speeding up the adoption of sound money. It has the potential to grow into one of the world's largest companies with an incredibly large number of users as the internet and mobile technology becomes more widespread and utilized around the globe.**
 
