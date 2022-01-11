@@ -1,4 +1,4 @@
-# FinTech_HW_one
+# FinTech Case Study
 This is a case study of a fintech company.
 
 # Zap's Strike App - a fintech case study
